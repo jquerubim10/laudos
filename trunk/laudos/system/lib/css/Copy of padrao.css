@@ -1,0 +1,76 @@
+body { 
+	font: 8pt/16pt trebuchet ms, lucida; 
+	color: #333333; 
+	margin: 0px;
+}
+
+a {
+	color: #333333;
+}
+
+a.branco {
+	color: #fff;
+	text-decoration:none;
+}
+
+input {
+	font: 11px trebuchet ms, lucida;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+
+textarea {
+	font: 11px trebuchet ms, lucida;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+
+select {
+	font: 11px trebuchet ms, lucida;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+
+
+form {
+	margin-bottom: 0px;
+}
+
+.link {
+	cursor:pointer;
+}
+
+.erro {
+	color:#CC3300;
+	font-weight:bold;
+}
+
+table.gerenciar{
+background-color:#E1F2F1;
+border-color:#999999;
+border-left-style:solid;
+border-width:1px;
+}
+
+label{
+	font:"Trebuchet MS";
+	font-weight:bold;
+	font-size:11px;
+	}
+	
+	#paginacao{
+		background-color:#A4D1E8;
+		text-align:center;
+		width:537px;
+		height:25px;
+		border-style:solid;
+		border-color:#000000;
+		border-width:1px;
+		border-top:0px;
+		}
+.titulo{
+	font-size:16px;
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	margin-left:15px;
+	}

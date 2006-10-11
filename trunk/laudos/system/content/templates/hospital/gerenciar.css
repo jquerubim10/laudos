@@ -1,0 +1,48 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:10px 0px 0px 10px;
+	padding:0px;
+	}
+/*-------------------------------------------------*/	
+#form input.hos_nome{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_nome{
+	}
+/*-------------------------------------------------*/	
+#form input.hos_login{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_login{
+	}
+/*-------------------------------------------------*/	
+#form input.hos_senha{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_senha{
+	}
+/*-------------------------------------------------*/	
+#form input.hos_email{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_email{
+	}
+/*-------------------------------------------------*/	
+#form input.hos_percentual{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_percentual{
+	}
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin-top:0px;
+	margin-left:478px;
+	}
+/*-------------------------------------------------*/	
+	

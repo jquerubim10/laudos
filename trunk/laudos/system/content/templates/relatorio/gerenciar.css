@@ -1,0 +1,53 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:10px 0px 0px 10px;
+	padding:0px;
+	}
+/*-------------------------------------------------*/
+#form h2{
+	font-size:14px;
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	margin-bottom:10px;
+	}
+/*-------------------------------------------------*/
+#form select.hos_id{
+	width:210px;
+	margin-right:10px;
+	}
+#form div.hos_id{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form select.periodo_mes{
+	width:70px;
+	margin-right:10px;
+	}
+#form div.periodo_mes{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form select.periodo_ano{
+	width:60px;
+	margin-right:10px;
+	}
+#form div.periodo_ano{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form select.agrupar{
+	width:110px;
+	margin-right:10px;
+	}
+#form div.agrupar{
+float:left;
+	}
+
+/*-------------------------------------------------*/
+#form div.botoes{
+	margin-top:23px;
+	margin-left:468px;
+	}
+/*-------------------------------------------------*/		
+	

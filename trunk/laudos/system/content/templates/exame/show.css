@@ -1,0 +1,35 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+#form p{
+	margin:0px;
+	padding:5px;
+	background-color:#FFE6B0;
+	}
+	
+/*-------------------------------------------------*/
+#form p.med_id{
+	width:350px;
+	margin-right:25px;
+	}
+#form div.med_id{
+	}
+		
+/*-------------------------------------------------*/
+#form p.exa_nome{
+	width:350px;
+	margin-right:25px;
+	}
+#form div.exa_nome{
+	}
+		
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin-top:10px;
+	margin-left:402px;
+	}
+/*-------------------------------------------------*/	
+	

@@ -1,0 +1,115 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+#form p{
+	margin:0px;
+	padding:5px;
+	background-color:#FFE6B0;
+	}
+/*-------------------------------------------------*/	
+#form p.hos_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_id{
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_prontuario{
+	width:70px;
+	margin-right:25px;
+	}
+#form div.int_paciente_prontuario{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_nome{
+	width:230px;
+	margin-right:10px;
+	}
+#form div.int_paciente_nome{
+float:left;
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_sexo{
+	width:25px;
+	margin-right:10px;
+	}
+#form div.int_paciente_sexo{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_data_cadastro{
+	width:122px;
+	margin-right:25px;
+	}
+#form div.int_data_cadastro{
+	}
+/*-------------------------------------------------*/	
+#form p.int_paciente_nascimento{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_paciente_nascimento{
+	}
+/*-------------------------------------------------*/	
+#form p.exa_id{
+	width:280px;
+	margin-right:15px;
+	}
+#form div.exa_id{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+
+#form p.int_opcional{
+	width:90px;
+	margin-right:0px;
+	}
+#form div.int_opcional{
+	}
+/*-------------------------------------------------*/	
+#form p.con_id{
+	width:398px;
+	margin-right:25px;
+	}
+#form div.con_id{
+	}
+/*-------------------------------------------------*/	
+#form p.int_requisitante{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_requisitante{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_tecnico_rx{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_tecnico_rx{
+	}
+/*-------------------------------------------------*/
+#form input.int_codigo{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_codigo{
+	}
+/*-------------------------------------------------*/		
+#form textarea.int_texto{
+	width:400px;
+	height:150px;
+	margin-right:25px;
+	}
+#form div.int_texto{
+	}
+/*-------------------------------------------------*/		
+#form div.botoes{
+	margin:10px 0px 10px 407px;
+	}
+/*-------------------------------------------------*/
+	

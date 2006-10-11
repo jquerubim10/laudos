@@ -1,0 +1,57 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+	
+/*-------------------------------------------------*/	
+#form input.hos_id{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_id{
+	}
+	
+/*-------------------------------------------------*/	
+#form input.con_convenio_desc{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_convenio_desc{
+	}
+/*-------------------------------------------------*/	
+#form input.con_nome{
+	width:350px;
+	margin-right:25px;
+	}
+#form div.con_nome{
+	}
+/*-------------------------------------------------*/	
+#form input.con_valor_ch{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_valor_ch{
+	}
+/*-------------------------------------------------*/	
+#form input.con_valor_filme{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_valor_filme{
+	}
+/*-------------------------------------------------*/	
+#form input.con_desconto{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_desconto{
+	}
+/*-------------------------------------------------*/		
+#form div.botoes{
+	margin-top:10px;
+	margin-left:407px;
+	}
+/*-------------------------------------------------*/
+	

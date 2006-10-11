@@ -1,0 +1,65 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:10px 0px 0px 10px;
+	padding:0px;
+	}
+/*-------------------------------------------------*/
+#form h2{
+	font-size:14px;
+	font-family:"Trebuchet MS";
+	font-weight:bold;
+	margin-bottom:10px;
+	}
+#form div.imprimir{
+	margin-left:400px;
+	}	
+#form a.imprimir{
+	font-size:16px;
+	font-weight:bold;
+	}	
+/*-------------------------------------------------*/
+#form select.hos_id{
+	width:190px;
+	margin-right:10px;
+	}
+#form div.hos_id{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form select.int_status{
+	width:100px;
+	margin-right:0px;
+	}
+#form div.int_status{
+	}
+/*-------------------------------------------------*/	
+#form input.int_paciente_nome{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_paciente_nome{
+	float:left;
+	}
+#form input.int_data_inicial{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_data_inicial{
+	float:left;
+	}
+#form input.int_data_final{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_data_final{
+	float:left;
+	}
+
+/*-------------------------------------------------*/
+#form div.botoes{
+	margin-top:15px;
+	margin-left:468px;
+	}
+/*-------------------------------------------------*/		
+	

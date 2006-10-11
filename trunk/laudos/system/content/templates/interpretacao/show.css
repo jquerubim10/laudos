@@ -1,0 +1,191 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+#form p{
+	margin:0px;
+	padding:5px;
+	background-color:#FFE6B0;
+	}
+/*-------------------------------------------------*/
+#form p.hos_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_id{
+	}
+/*-------------------------------------------------*/
+#form p.int_data_impressao{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_data_impressao{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form p.int_data_interpretacao{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_data_interpretacao{
+	float:left;
+	}
+
+/*-------------------------------------------------*/
+#form p.int_data_cadastro{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_data_cadastro{
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_prontuario{
+	width:45px;
+	margin-right:10px;
+	}
+#form div.int_paciente_prontuario{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_nome{
+	width:180px;
+	margin-right:10px;
+	}
+#form div.int_paciente_nome{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form p.int_paciente_sexo{
+	width:15px;
+	margin-right:10px;
+	}
+#form div.int_paciente_sexo{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_paciente_nascimento{
+	width:95px;
+	margin-right:25px;
+	}
+#form div.int_paciente_nascimento{
+	}
+/*-------------------------------------------------*/
+#form p.exa_id{
+	width:280px;
+	margin-right:15px;
+	}
+#form div.exa_id{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form p.con_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.con_id{
+	}
+/*-------------------------------------------------*/
+#form p.int_opcional{
+	width:90px;
+	margin-right:25px;
+	}
+#form div.int_opcional{
+
+	}
+/*-------------------------------------------------*/
+#form p.int_contraste{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_contraste{
+	}
+/*-------------------------------------------------*/	
+#form p.int_requisitante{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_requisitante{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_tecnico_rx{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_tecnico_rx{
+	}
+/*-------------------------------------------------*/
+#form p.int_texto{
+	width:400px;
+	height:80px;
+	margin-right:25px;
+	}
+#form div.int_texto{
+	}
+/*-------------------------------------------------*/	
+#form p.int_percentual{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_percentual{
+	}
+/*-------------------------------------------------*/	
+#form p.int_valor_absoluto{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_valor_absoluto{
+	}
+/*-------------------------------------------------*/	
+#form p.int_ch{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_ch{
+float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_valor_ch{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_valor_ch{
+	}
+/*-------------------------------------------------*/	
+#form p.int_filme{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_filme{
+float:left;
+	}
+/*-------------------------------------------------*/	
+#form p.int_valor_filme{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_valor_filme{
+	}
+/*-------------------------------------------------*/	
+#form p.int_valor_contraste{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_valor_contraste{
+	}
+/*-------------------------------------------------*/	
+#form p.int_valor_final{
+	width:120px;
+	margin-right:25px;
+	}
+#form div.int_valor_final{
+	}
+
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin:10px 0px 10px 402px;
+	}
+/*-------------------------------------------------*/	
+	

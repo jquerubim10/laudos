@@ -1,0 +1,146 @@
+/*----------------------------------------------*/
+/*----------------------------------------------*/
+body{
+	margin:0px;
+	background-color:#E6F2EF;
+	background-image:url(images/fundo_vert.jpg);
+	background-position:center;
+	background-repeat:repeat-y;
+	}
+#geral{
+	position:absolute;
+	top:50%;
+	margin-top:-215px;
+	width:100%;
+	height:430px;
+	}
+	#geral table{
+		width:100%;
+		height:430px;
+		}
+/*----------------------------------------------*/
+#fundo_hor_esq{
+	margin-top:46px;
+	width:101%;
+	height:334px;
+	background-image:url(images/fundo_hor_esq.jpg);
+	background-position:center;
+	background-repeat:repeat-x;
+	}
+#fundo_hor_dir{
+	margin-top:46px;
+	width:100%;
+	height:334px;
+	background-image:url(images/fundo_hor_dir.jpg);
+	background-repeat:repeat-x;
+	}
+/*----------------------------------------------*/
+#conteudo{
+	position:relative;
+	width:777px;
+	height:430px;
+	margin-left:0px;
+	background-color:#E6F2EF;
+	background-image:url(images/fundo_conteudo.jpg);
+	background-position:right;
+	background-repeat:repeat-y;
+	}
+	#barra_topo{
+		position:absolute;
+		top:71px;
+		left:0px;
+		width:777px;
+		height:57px;
+		background-image:url(images/barra_topo.jpg);
+		background-repeat:repeat-y;
+		}
+		#gerencia{
+			position:absolute;
+			top:0px;
+			left:396px;
+			border:0px;
+			}
+		#barra_topo_sombra{
+			position:absolute;
+			width:777px;
+			height:8px;
+			top:49px;
+			left:0px;
+			background-image:url(images/barra_topo_sombra.jpg);
+			background-repeat:no-repeat;
+			}
+	
+	#centro{
+		position:absolute;
+		top:128px;
+		left:0px;
+		width:777px;
+		height:255px;
+		background-color:#FFFFFF;
+		}
+		#centro label{
+			font-family:arial;
+			font-size:11px;
+			font-weight:bold;
+			}
+		#centro img.imagem{
+			position:absolute;
+			top:0px;
+			left:263px;
+			}
+		#centro #login{
+			position:absolute;
+			top:47px;
+			left:26px;
+			width:195px;
+			height:145px;
+			background-image:url(images/login.jpg);
+			background-repeat:no-repeat;
+			}
+			#centro #login form{
+				margin:18px 0px 0px 21px;
+				width:144px;
+				height:105px;
+				}
+				#centro #login form input{
+					width:144px;
+					height:14px;
+					margin-top:-3px;
+					background-color:#D9ECE8;
+					border:1px;
+					border-style:solid;
+					border-color:#C65501;
+					margin-left:-21px;
+					font-family:arial;
+					font-size:11px;
+					}
+				#centro #login form .entrar{
+					position:absolute;
+					top:100px;
+					left:99px;
+					width:64px;
+					height:23px;
+					border:0px;
+					}
+	
+	#barra_baixo{
+		position:absolute;
+		top:383px;
+		left:0px;
+		width:777px;
+		height:22px;
+		background-image:url(images/barra_baixo.jpg);
+		background-repeat:no-repeat;
+		}
+		
+	#drernesto{
+		position:absolute;
+		top:405px;
+		left:556px;
+		width:134px;
+		height:13px;
+		background-image:url(images/drernesto.jpg);
+		background-repeat:no-repeat;
+		}
+/*----------------------------------------------*/
+/*----------------------------------------------*/

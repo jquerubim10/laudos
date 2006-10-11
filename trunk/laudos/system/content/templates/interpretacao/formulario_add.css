@@ -1,0 +1,96 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:0px 0px 0px 15px;
+	}
+	
+/*-------------------------------------------------*/	
+#form select.med_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.med_id{
+	}
+/*-------------------------------------------------*/	
+#form select.hos_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_id{
+	}
+/*-------------------------------------------------*/	
+#form input.int_paciente_nome{
+	width:395px;
+	margin-right:25px;
+	}
+#form div.int_paciente_nome{
+	}
+/*-------------------------------------------------*/	
+#form input.int_paciente_prontuario{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_paciente_prontuario{
+	float:left;
+	}
+/*-------------------------------------------------*/
+#form select.int_paciente_sexo{
+	width:50px;
+	margin-right:25px;
+	}
+#form div.int_paciente_sexo{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form input.int_paciente_nascimento{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_paciente_nascimento{
+	}
+/*-------------------------------------------------*/	
+#form input.int_opcional{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.int_opcional{
+	}
+/*-------------------------------------------------*/	
+#form select.exa_id{
+	width:267px;
+	margin-right:25px;
+	}
+#form div.exa_id{
+float:left;
+	}
+/*-------------------------------------------------*/	
+#form input.int_requisitante{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_requisitante{
+	float:left;
+	}
+/*-------------------------------------------------*/	
+#form select.con_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.con_id{
+float:none;
+	}
+
+/*-------------------------------------------------*/	
+#form input.int_tecnico_rx{
+	width:180px;
+	margin-right:25px;
+	}
+#form div.int_tecnico_rx{
+	}
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin:10px 0px 10px 325px;
+	}
+/*-------------------------------------------------*/
+	
