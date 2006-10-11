@@ -1,0 +1,29 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+	
+/*-------------------------------------------------*/	
+#form input.txp_codigo{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.txp_codigo{
+	}
+/*-------------------------------------------------*/	
+#form textarea.txp_texto{
+	width:400px;
+	height:200px;
+	margin-right:25px;
+	}
+#form div.txp_texto{
+	}
+/*-------------------------------------------------*/		
+#form div.botoes{
+	margin-top:10px;
+	margin-left:407px;
+	}
+/*-------------------------------------------------*/
+	

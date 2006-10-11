@@ -1,0 +1,342 @@
+/*---------------------------------------------------*/
+body{
+	margin:0px;
+	background-color:#ffffff;
+	font-family:sans-serif, Arial;
+	font-size:11px;
+	color:#333333;
+	}
+a{
+	font-family:sans-serif, Arial;
+	font-size:11px;
+	color:#666868;
+	text-decoration:none;
+	}
+a:hover{
+	text-decoration:underline;
+	}
+
+input {
+	font: 11px sans-serif, Arial;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+
+textarea {
+	font: 11px sans-serif, Arial;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+
+select {
+	font: 11px sans-serif, Arial;
+	color: #333333;
+	background-color:#EFE6DC;
+}
+/*---------------------------------------------------*/
+#todo{
+	position:relative;
+	padding:0px;
+	margin:0px;
+	}
+/*---------------------------------------------------*/
+#topo{
+	width:776px;
+	height:137px;
+	background-color:#006633;
+	position:relative;
+	}
+	#parte01{
+		position:absolute;
+		top:0px;
+		left:0px;
+		width:206px;
+		height:24px;
+		background-image:url(../../images/topo_part01_bg.jpg);
+		background-repeat:repeat-x;
+		}
+	#parte02{
+		position:absolute;
+		top:0px;
+		left:206px;
+		width:349px;
+		height:46px;
+		border-bottom-width:2px;
+		border-bottom-style:solid;
+		border-bottom-color:#F2D19B;
+		background-image:url(../../images/topo_part02_bg.jpg);
+		background-repeat:repeat-y;
+		}
+/*---------------------------------------------------*/		
+	#sair{
+		position:absolute;
+		top:0px;
+		left:555px;
+		width:218px;
+		height:78px;
+		background-color:#FFFFFF;
+		border-width:0px;
+		border-right-width:3px;
+		border-bottom-width:2px;
+		border-color:#E5E5E5;
+		border-style:solid;
+		}
+		#sair .usuario{
+			position:absolute;
+			top:12px;
+			left:37px;
+			font-family:sans-serif, Arial;
+			font-size:12px;
+			color:#FF9933;
+			font-weight:bold;
+			}
+		#sair .usuario_cargo{
+			position:absolute;
+			top:26px;
+			left:37px;
+			font-family:sans-serif, Arial;
+			font-size:11px;
+			color:#777777;
+			}
+		#boneco{
+			position:absolute;
+			top:13px;
+			left:14px;
+			width:14px;
+			height:24px;
+			background-image:url(../../images/sair_boneco.jpg);
+			background-repeat:no-repeat;
+			}
+		#sair_botao{
+			position:absolute;
+			top:49px;
+			left:37px;
+			width:20px;
+			height:19px;
+			background-image:url(../../images/sair_botao.jpg);
+			background-repeat:no-repeat;
+			cursor:pointer;
+			}
+			#sair .sair_botao{
+				position:absolute;
+				top:51px;
+				left:60px;
+				font-family:sans-serif, Arial;
+				font-size:12px;
+				color:#999999;
+				}
+/*---------------------------------------------------*/			
+	#logo{
+		position:absolute;
+		top:24px;
+		left:0px;
+		width:206px;
+		height:117px;
+		background-color:#FFFFFF;
+		}
+		#logo img{
+			position:absolute;
+			top:20px;
+			left:0px;
+			}
+/*---------------------------------------------------*/
+	#data{
+		position:absolute;
+		top:48px;
+		left:206px;
+		width:345px;
+		height:32px;
+		background-color:#FFFFFF;
+		border-width:0px;
+		border-right:4px;
+		border-right-color:#E5E5E5;
+		border-style:solid;
+		}
+		#data span{
+			position:absolute;
+			top:9px;
+			left:40px;
+			font-family:sans-serif, Arial;
+			font-size:10px;
+			color:#7CAFAF;
+			}
+/*---------------------------------------------------*/
+	#parte03{
+		position:absolute;
+		top:80px;
+		left:206px;
+		width:570px;
+		height:61px;
+		background-color:#ECF5F4
+		}
+/*---------------------------------------------------*/
+	#titulo{
+		position:absolute;
+		top:6px;
+		left:0px;
+		width:559px;
+		height:25px;
+		background-image:url(../../images/topo_titulo_bg.jpg);
+		border-width:0px;
+		border-style:solid;
+		border-color:#D5E1E1;
+		border-left-width:4px;
+		}
+		#titulo p{
+			position:absolute;
+			top:3px;
+			left:35px;
+			font-family:sans-serif, Arial;
+			font-size:16px;
+			color:#666868;
+			font-weight:bold;
+			}
+/*---------------------------------------------------*/
+	#abas{
+		position:absolute;
+		top:31px;
+		left:0px;
+		width:560px;
+		background-color:#D5E1E1;
+		border-style:solid;
+		border-width:0px;
+		border-right-width:3px;
+		border-color:#E1E9E9;
+		padding:0px;
+		}
+/*---------------------------------------------------*/
+#centro{
+	position:relative;
+	width:776px;
+	background-color:#009999;
+	}
+/*---------------------------------------------------*/	
+	#menu{
+		position:relative;
+		width:210px;
+		background-color:#FFFFFF;
+		background-image:url(../../images/menu_bg.jpg);
+		background-repeat:repeat-y;
+		float:left;
+		}
+		#menu ul{
+			list-style:none;
+			margin:0px 0px 0px 26px;
+			}
+			#menu li{
+				position:relative;
+				width:169px;
+				height:18px;
+				background-image:url(../../images/menu_item.jpg);
+				}
+				#menu li a{
+					position:absolute;
+					top:3px;
+					left:18px;
+					font:Arial, Helvetica, sans-serif;
+					font-size:11px;
+					font-weight:bold;
+					color:#777777;
+					}
+/*---------------------------------------------------*/				
+	#conteudo{
+		position:relative;
+		width:566px;
+		background-color:#F9FBFB;
+		background-image:url(../../images/conteudo_bg.jpg);
+		background-position:right;
+		background-repeat:repeat-y;
+		float:right;
+		}
+/*---------------------------------------------------*/				
+	#miolo{
+		background-color:#ffffff;
+		width:555px;
+		height:350px;
+		padding-left:0px;
+		}
+/*---------------------------------------------------*/
+		#caminho{
+			position:relative;
+			width:556px;
+			height:24px;
+			background-image:url(../../images/conteudo_caminho_bg.jpg);
+			background-repeat:repeat-x;
+			}
+			#caminho p{
+				position:absolute;
+				top:6px;
+				left:35px;
+				font-family:sans-serif, Arial;
+				font-size:10px;
+				color:#7AAEAE;
+				}
+/*---------------------------------------------------*/
+		#busca{
+			position:relative;
+			margin:17px 0px 0px 33px;
+			}
+			#busca label{
+				font-family:sans-serif, Arial;
+				font-size:10px;
+				font-weight:bold;
+				color:#666666;
+				}
+			#busca .busca_nome{
+				position:relative;
+				width:209px;
+				height:15px;
+				margin:0px 12px 0px 0px;
+				float:left;
+				}
+			#busca .busca_botao{
+				width:47px;
+				height:19px;
+				margin:3px 0px 0px 0px;
+				background-image:url(../../images/conteudo_busca_botao.jpg);
+				background-repeat:no-repeat;
+				}
+/*---------------------------------------------------*/
+#rodape{
+	position:relative;
+	width:776px;
+	height:93px;
+	background-color:#EDF5F5;
+	background-image:url(../../images/rodape_bg.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	}
+	#rodape p{
+		position:absolute;
+		top:14px;
+		left:220px;
+		font-family:sans-serif, Arial;
+		font-size:10px;
+		color:#7CAFAF;
+		}
+	#parte05{
+		position:absolute;
+		top:0px;
+		left:15px;
+		width:191px;
+		height:2px;
+		background-color:#FFFFFF;
+		}
+	#parte06{
+		position:absolute;
+		top:0px;
+		left:0px;
+		width:15px;
+		height:42px;
+		background-image:url(../../images/rodape_parte06_bg.jpg);
+		background-repeat:repeat-y;
+		}
+	#parte07{
+		position:absolute;
+		top:42px;
+		left:12px;
+		width:3px;
+		height:51px;
+		background-color:#EDF5F5;
+		}
+/*---------------------------------------------------*/

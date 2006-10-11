@@ -1,0 +1,50 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+#form p{
+	margin:0px;
+	padding:5px;
+	background-color:#FFE6B0;
+	}
+	
+/*-------------------------------------------------*/
+#form p.hos_id{
+	width:350px;
+	margin-right:25px;
+	}
+#form div.hos_id{
+	}
+		
+/*-------------------------------------------------*/
+#form p.con_nome{
+	width:350px;
+	margin-right:25px;
+	}
+#form div.con_nome{
+	}
+		
+/*-------------------------------------------------*/
+#form p.con_valor_ch{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_valor_ch{
+	}
+/*-------------------------------------------------*/
+#form p.con_valor_filme{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.con_valor_filme{
+	}
+		
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin-top:10px;
+	margin-left:402px;
+	}
+/*-------------------------------------------------*/	
+	

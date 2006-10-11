@@ -1,0 +1,43 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:10px 0px 0px 10px;
+	padding:0px;
+	}
+/*-------------------------------------------------*/	
+#form select.exa_id{
+	width:200px;
+	margin-right:5px;
+	}
+#form div.exa_id{
+float:left;
+	}
+/*-------------------------------------------------*/	
+#form select.con_id{
+	width:300px;
+	margin-right:25px;
+	margin-bottom:10px;
+	}
+#form div.con_id{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_valor{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_valor{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_ch{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_ch{
+	}
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin-top:0px;
+	margin-left:478px;
+	}
+/*-------------------------------------------------*/	
+	

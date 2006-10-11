@@ -1,0 +1,51 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+#form p{
+	margin:0px;
+	padding:5px;
+	background-color:#FFE6B0;
+	}
+	
+/*-------------------------------------------------*/
+#form p.hos_nome{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_nome{
+	}
+		
+/*-------------------------------------------------*/
+#form p.hos_login{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.hos_login{
+	}
+		
+/*-------------------------------------------------*/
+#form p.hos_email{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.hos_email{
+	}
+		
+/*-------------------------------------------------*/
+#form p.hos_percentual{
+	width:60px;
+	margin-right:25px;
+	}
+#form div.hos_percentual{
+	}
+		
+/*-------------------------------------------------*/	
+#form div.botoes{
+	margin-top:10px;
+	margin-left:402px;
+	}
+/*-------------------------------------------------*/	
+	

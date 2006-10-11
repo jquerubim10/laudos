@@ -1,0 +1,28 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+/*-------------------------------------------------*/
+#form input.exa_nome{
+	width:300px;
+	margin-right:25px;
+	}
+#form div.exa_nome{
+	}
+/*-------------------------------------------------*/
+#exa_valores{
+	margin:10px 0px 10px 0px;
+	width:540px;
+	height:30px;
+	border-width:1px;
+	border-style:solid;
+	border-color:#000000;
+	}
+/*-------------------------------------------------*/				
+#form div.botoes{
+	margin:10px 0px 0px 407px;
+	}
+/*-------------------------------------------------*/
+	

@@ -1,0 +1,56 @@
+
+/*-------------------------------------------------*/	
+#form{
+	margin:0px;
+	padding:20px 0px 0px 15px;
+	}
+	
+/*-------------------------------------------------*/	
+#form select.exa_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.exa_id{
+	}
+/*-------------------------------------------------*/	
+#form select.con_id{
+	width:400px;
+	margin-right:25px;
+	}
+#form div.con_id{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_valor_absoluto{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_valor_absoluto{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_ch{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_ch{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_filme{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_filme{
+	}
+/*-------------------------------------------------*/	
+#form input.vex_valor_contraste{
+	width:100px;
+	margin-right:25px;
+	}
+#form div.vex_valor_contraste{
+	}
+/*-------------------------------------------------*/		
+#form div.botoes{
+	margin-top:10px;
+	margin-left:407px;
+	}
+/*-------------------------------------------------*/
+	
